@@ -1,0 +1,8 @@
+.mainNewUser {
+	background-color: #faf8f1;
+	/* height: 99vh; */
+	border: 1px solid #faf8f1;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
